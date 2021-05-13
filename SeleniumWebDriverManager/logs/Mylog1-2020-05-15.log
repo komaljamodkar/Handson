@@ -1,0 +1,21 @@
+[INFO ] 2020-05-15 17:22:54.045 [main] Log4jDemo - ihis is an information message
+[ERROR] 2020-05-15 17:22:54.052 [main] Log4jDemo - this is an error message
+[WARN ] 2020-05-15 17:22:54.052 [main] Log4jDemo - this is an waring message
+[FATAL] 2020-05-15 17:22:54.052 [main] Log4jDemo - this is an fatal message
+[INFO ] 2020-05-15 17:25:14.255 [main] Log4jDemo - this is an information message
+[ERROR] 2020-05-15 17:25:14.262 [main] Log4jDemo - this is an error message
+[WARN ] 2020-05-15 17:25:14.262 [main] Log4jDemo - this is an waring message
+[FATAL] 2020-05-15 17:25:14.263 [main] Log4jDemo - this is an fatal message
+[INFO ] 2020-05-15 17:25:32.561 [main] Log4jDemo - this is an information message
+[ERROR] 2020-05-15 17:25:32.568 [main] Log4jDemo - this is an error message
+[WARN ] 2020-05-15 17:25:32.568 [main] Log4jDemo - this is an waring message
+[FATAL] 2020-05-15 17:25:32.568 [main] Log4jDemo - this is an fatal message
+[INFO ] 2020-05-15 17:27:08.930 [main] Log4jDemo - this is an information message
+[ERROR] 2020-05-15 17:27:08.938 [main] Log4jDemo - this is an error message
+[WARN ] 2020-05-15 17:27:08.938 [main] Log4jDemo - this is an waring message
+[FATAL] 2020-05-15 17:27:08.938 [main] Log4jDemo - this is an fatal message
+[TRACE] 2020-05-15 17:28:32.188 [main] Log4jDemo - this is an trace message
+[INFO ] 2020-05-15 17:28:32.195 [main] Log4jDemo - this is an information message
+[ERROR] 2020-05-15 17:28:32.195 [main] Log4jDemo - this is an error message
+[WARN ] 2020-05-15 17:28:32.195 [main] Log4jDemo - this is an waring message
+[FATAL] 2020-05-15 17:28:32.195 [main] Log4jDemo - this is an fatal message
