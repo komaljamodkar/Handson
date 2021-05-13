@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test1(failed)">
+    <parameter name="browsername" value="firefox"/>
+    <classes>
+      <class name="testcase.Flightsearch">
+        <methods>
+          <include name="Flights"/>
+          <include name="setUp"/>
+          <include name="Date"/>
+          <include name="tearDown"/>
+          <include name="Search"/>
+        </methods>
+      </class> <!-- testcase.Flightsearch -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test name="Test2(failed)">
+    <parameter name="browsername" value="chrome"/>
+    <classes>
+      <class name="testcase.Flightsearch">
+        <methods>
+          <include name="Flights"/>
+          <include name="From"/>
+          <include name="setUp"/>
+          <include name="Date"/>
+          <include name="tearDown"/>
+          <include name="test"/>
+          <include name="To"/>
+          <include name="Search"/>
+        </methods>
+      </class> <!-- testcase.Flightsearch -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
