@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32601" started-at="2020-11-02T05:19:35Z" finished-at="2020-11-02T05:20:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32601" started-at="2020-11-02T05:19:35Z" finished-at="2020-11-02T05:20:07Z">
+      <class name="testcase01.CatSearch">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:testcase01.CatSearch@39c0f4a]" name="setUp" is-config="true" duration-ms="6150" started-at="2020-11-02T10:49:35Z" finished-at="2020-11-02T10:49:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:1, instance:testcase01.CatSearch@39c0f4a]" name="test" duration-ms="13418" started-at="2020-11-02T10:49:41Z" finished-at="2020-11-02T10:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="From()[pri:2, instance:testcase01.CatSearch@39c0f4a]" name="From" duration-ms="11486" started-at="2020-11-02T10:49:54Z" finished-at="2020-11-02T10:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- From -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase01.CatSearch@39c0f4a]" name="tearDown" is-config="true" duration-ms="1522" started-at="2020-11-02T10:50:06Z" finished-at="2020-11-02T10:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase01.CatSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
